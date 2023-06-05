@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+## ScreenShot 
+
+<img width="1440" alt="Screenshot 2023-06-05 at 10 38 30 AM" src="https://github.com/2732ii2/ElevatorSlider/assets/83974207/7b0c8d29-9ec5-4146-94df-b445da8b5b54">
+
+
+## Live Link = https://moonlit-jalebi-357800.netlify.app/
+
 ### `npm start`
 
 Runs the app in the development mode.\
